@@ -12,4 +12,4 @@ Eu sou idalvan, tenho 24 anos, eu sou um programador Front End, estou aprendendo
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idalvanoliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![idalvan Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idalvanoliveira)](https://github.com/anuraghazra/github-readme-stats)
